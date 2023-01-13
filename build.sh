@@ -1,3 +1,3 @@
-# Build the progtech-python-app docker image
+#!/bin/bash
 
 docker build -t progtech-python-app .

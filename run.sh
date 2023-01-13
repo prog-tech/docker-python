@@ -1,3 +1,3 @@
-# Execute the progtech-python-app image in a docker container
+#!/bin/bash
 
 docker run -it --rm --name progtech-python-app progtech-python-app
