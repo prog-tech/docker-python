@@ -6,6 +6,8 @@ This repository only creates and image to be used for python scripts inside a Do
 
 It uses [the Docker Python Official](https://hub.docker.com/_/python/) documentation to see how to customize.
 
+Here is our [Official](https://hub.docker.com/r/progtechbr/progtech-docker-python) documentation on how to install and use it from [Docker Hub](https://hub.docker.com)
+
 ## What it comes with
 
 The python container created by this `Dockerfile` has:
