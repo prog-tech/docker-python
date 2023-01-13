@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t progtech-python-app .
+docker build -t progtech-docker-python .

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run -it --rm --name progtech-python-app progtech-python-app
+docker run -it --rm --name progtech-docker-python progtech-docker-python
