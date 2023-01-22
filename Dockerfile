@@ -5,8 +5,8 @@ WORKDIR /usr/src/app
 RUN set -eux; \
 	\
 	apk add --no-cache --virtual .build-deps \
-		bash \
-    vim \
+	bash \
+	vim \
 	;
 
 CMD ["bash"]
