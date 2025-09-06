@@ -9,6 +9,4 @@ RUN set -eux; \
 	vim \
 	;
 
-COPY . .
-
-CMD ["bash"]
+CMD ["python"]

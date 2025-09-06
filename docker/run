@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# docker run -it --rm --name progtech-docker-python progtech-docker-python
+docker run --rm -it -v "$PWD":/usr/src/app -w /usr/src/app progtech-docker-python bash
