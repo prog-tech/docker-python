@@ -1,4 +1,5 @@
 
 scripts/*.py
 scripts/*.pyc
+scripts/__pycache__/
 
