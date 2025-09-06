@@ -1,4 +1,4 @@
-FROM python:alpine3.17
+FROM python:3.13.7-alpine3.22
 
 WORKDIR /usr/src/app
 
@@ -8,5 +8,7 @@ RUN set -eux; \
 	bash \
 	vim \
 	;
+
+COPY . .
 
 CMD ["bash"]
